@@ -1,0 +1,226 @@
+    1  ls
+    2  pwd
+    3  cd ..
+    4  cd ..
+    5  pwd
+    6  mkdir dev
+    7  ls
+    8  cd dev
+    9  ls
+   10  ls -a
+   11  git init
+   12  ls
+   13  ls -a
+   14  cd .git
+   15  ls
+   16  cd config 
+   17  ls lart
+   18  ls -lart
+   19  cat
+   20  cat config 
+   21  cd ..
+   22  git status
+   23  touch bis
+   24  touch bis
+   25  ls
+   26  git status
+   27  git add .
+   28  git status
+   29  git commit -m  "first"
+   30  git config --global aman.ryzus.email "aman.ryzus@gmail.com"
+   31  git commit -m  "first"
+   32  git config --global aman.ryzus%0A.email "aman.ryzus@gmail.com"
+   33  git commit -m  "first"
+   34  git add .git config --global user.email "aman.ryzus@gmail.com"
+   35  git commit -m  "first"
+   36  git config --global user.email "aman.ryzus@gmail.com"
+   37  git commit -m  "first"
+   38  git config --global user.email
+   39  git config user.email "email@example.com"
+   40  git config user.email "aman.ryzus@gmail.com"
+   41  $ git config user.email
+   42  git push repo master
+   43  git push devops master
+   44  git config --global user.name "Anshuman"
+   45  git ls
+   46  git remote add origin git@github.com:amanryzus/devops
+   47   git push -u origin master
+   48  ls
+   49  git clone https://github.com/amanryzus/devops
+   50  cd ..
+   51  ls
+   52  s
+   53  cd ..
+   54  ls
+   55  c
+   56  cd c
+   57  ls
+   58  git clone https://github.com/amanryzus/devops
+   59  cd devops
+   60  ls
+   61  cd ..
+   62  cd
+   63  ls
+   64  ls
+   65  pwd
+   66  cd ..
+   67  cd./..
+   68  cd ./..
+   69  ls
+   70  mkdir repo
+   71  cd repo
+   72  git clone https://github.com/amanryzus/devops
+   73  touch newfile
+   74  git status
+   75  cd .dev
+   76  cd devops/
+   77  git status
+   78  touch newf
+   79  git status
+   80  git add .
+   81  git status
+   82  git commit -m "commit2"
+   83  ls
+   84  git remote add origin remote repository https://github.com/amanryzus/devops.git
+   85  git remote add devops remote repository https://github.com/amanryzus/devops.git
+   86  git remote add devops remote https://github.com/amanryzus/devops.git
+   87  git remote add  remote https://github.com/amanryzus/devops.git
+   88  git push
+   89  git remote add  repository https://github.com/amanryzus/devops.git
+   90  git push
+   91  git push
+   92  ls
+   93  vim newf
+   94  git commit -m "commit3"
+   95  git commit -m "commit3"
+   96  git add .
+   97  git commit -m "commit3"
+   98  git push
+   99  git push -v origin master
+  100  vim newf
+  101  git push -v origin master
+  102  git commit -m "commit4"
+  103  git add .
+  104  git commit -m "commit4"
+  105  git push -v origin master
+  106  git pull origin master
+  107  ls
+  108  git checkout -b devlope
+  109  git checkout -b develop
+  110  clear
+  111  history
+  112  history > gitcommands.txt
+  113  git add .
+  114  git commit -m "commit4"
+  115  git push -v origin master
+  116  git push -v origin develop
+  117  ls
+  118  vagrant up
+  119  ls
+  120  ls
+  121  vagrant 
+  122  vagrant up
+  123  vagrant up
+  124  vagrant up
+  125  vagrant up
+  126  ls
+  127  pwd
+  128  cd ../.
+  129  pwd
+  130  cd ..\.
+  131  cd ..
+  132  ls
+  133  mkdir ssh
+  134  cd ssh
+  135  ssh -keygen
+  136  ssh -key gen
+  137  ssh-keygen
+  138  cd ~/ssh
+  139  cd ~/.ssh
+  140  ls
+  141  cat id_rsa
+  142  ls
+  143  cat id_rsa.pub
+  144  cd ..
+  145  ls
+  146  pwd
+  147  cd ..
+  148  cd ..
+  149  mkdir newrepo
+  150  cd newrepo/
+  151  cat id_rsa.pub
+  152  cd ssh
+  153  ls
+  154  cd ..
+  155  cd ss
+  156  cd ssh
+  157  ls
+  158  ssh-keygen
+  159  ls
+  160  ls
+  161  ssh-keygen
+  162  ls
+  163  gitclone git@github.com:amanryzus/devops.git
+  164  git clone git@github.com:amanryzus/devops.git
+  165  vagrant up
+  166  ls
+  167  git init
+  168  cd ..
+  169  ls
+  170  cd newrepo
+  171  ls
+  172  git init
+  173  ls
+  174  cd ..
+  175  cd repo
+  176  ls
+  177  cd devops
+  178  git init
+  179  ls
+  180  git push
+  181  git push -v origin
+  182  cd ..
+  183  cd ..
+  184  ls
+  185  cd newpoer
+  186  newrepo
+  187  cd newrepo
+  188  ls
+  189  git clone https://github.com/amanryzus/devops
+  190  ls
+  191  cd devops
+  192  git checkout -b develop2
+  193  ls
+  194  vim newf2
+  195  vim newf2.tx
+  196  vim newf2.txt
+  197  git merge develop/develop2
+  198  git checkout develop
+  199  git merge develop2
+  200  git commit
+  201  push -v
+  202  push -v develop2
+  203  git push -v develop2
+  204  push -v origin develop2
+  205  git push -v origin develop2
+  206  ls
+  207  vim newf2.txt
+  208  add .
+  209  git add .
+  210  git commmit -m"new"
+  211  git commit -m"new"
+  212  git push -v origin develop
+  213  git checkout master
+  214  git merge master
+  215  git merge develop
+  216  commit -m
+  217  git commit -m"merge"
+  218  push -v
+  219  git push -v origin master
+  220  git origin master --delete develop2
+  221  git push origin master --delete develop2
+  222  git push devops --delete develop
+  223  git push origin --delete develop
+  224  git banch
+  225  git master
+  226  history > history2.txt
